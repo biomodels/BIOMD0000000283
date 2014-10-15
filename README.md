@@ -1,3 +1,21 @@
+# BIOMD0000000283: chance
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000283.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000283.git@20140916`
+
+
+# Model Notes
 
 
 Default parameter values are those in the right hand panel of Fig 12. The
@@ -49,4 +67,5 @@ This model is the one described in the appendix of the article. It reproduces,
 amongst others, figure 12. The parameters and concentrations used are rescaled
 as stated in the article. K2 and K3 stand for k2 and k3, respectively, divided
 by k1.
+
 
